@@ -1,4 +1,10 @@
-# klipper-backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+# Enderwire klipper-backup 💾 
+Klipper backup script of my Voron Switchwire conversion printer:
 
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+Setup
+Printer: Voron Switchwire
+Firmware: Klipper (Running on Raspberry Pi CM4)
+Interface: Mainsail
+Mainboard: BIGTREETECH Manta E3EZ
+Extruder: Bondtech LGX Lite v1 
+Probe: Omron probe
